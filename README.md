@@ -4,6 +4,7 @@ Bem-vindo ao repositório do projeto de uma **Inteligência Artificial Mobile**.
 
 ## 📖 Sobre o Projeto
  O Inclusiva IA é um aplicativo mobile desenvolvido para promover a inclusão digital e a acessibilidade de pessoas com deficiência visual e auditiva.
+ 
  A solução utiliza Inteligência Artificial para transformar conteúdos em formatos acessíveis, permitindo que usuários consumam informações de maneira mais simples, intuitiva e independente.
 
 O sistema foi projetado para atender diferentes perfis de usuários, incluindo:
@@ -16,6 +17,7 @@ O sistema foi projetado para atender diferentes perfis de usuários, incluindo:
 
 ## 🎯 Objetivo do Projeto
  Desenvolver uma Inteligência Artificial Mobile capaz de facilitar o acesso à informação por meio da conversão automática de conteúdos textuais e visuais em formatos acessíveis.
+ 
  A proposta busca reduzir barreiras de comunicação e promover a inclusão digital através de recursos tecnológicos que auxiliam a compreensão e o consumo de informações.
 
 ## 🤖 A Inteligência Artificial
