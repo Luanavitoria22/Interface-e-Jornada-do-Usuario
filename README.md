@@ -58,3 +58,9 @@ O sistema foi projetado para atender diferentes perfis de usuários, incluindo:
 - ✔️ Dois caminhos distintos para a mesma tarefa  
 
 ---
+
+### Colaboradores do Projeto:
+
+[Brenon](https://github.com/Brenon934)
+
+[Paola Victoria](https://github.com/Paola-2711)
